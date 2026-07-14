@@ -18,9 +18,9 @@ Competitive Programmer • Backend Developer • Full Stack Developer • AI Ent
 
 🌱 Currently exploring
 
-- System Design
-- Distributed Systems
-- Cloud Computing
+- Gen AI
+- LLMs
+- ML
 - Backend Engineering
 
 🏆 Highlights
