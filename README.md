@@ -1,125 +1,229 @@
-
 <h1 align="center">Hi 👋, I'm Sahil Pal</h1>
-<h3 align="center">Competitive Programmer | Backend Developer | Full Stack Developer | GenAI Enthusiast</h3>
+
+<h3 align="center">
+Competitive Programmer • Backend Developer • Full Stack Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Guardian+on+LeetCode;Backend+Developer;MERN+Stack+Developer;1800%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Undergraduate at **MANIT Bhopal**
-- 💻 Passionate about **Backend Engineering, Distributed Systems, and Problem Solving**
-- 🌱 Currently exploring **System Design, Scalable Backend Architecture, and Cloud Technologies**
-- 🧠 Solved **1800+ DSA Problems** across LeetCode, Codeforces, CodeChef & AtCoder
-- ⚡ Love building products that solve real-world problems
-- 📫 Reach me at **your_email@example.com**
+🎓 Computer Science Undergraduate at **Maulana Azad National Institute of Technology (MANIT), Bhopal**
 
----
+💻 Passionate about **Backend Engineering**, **Scalable Systems**, **Competitive Programming**, and **Artificial Intelligence**
 
-## 🏆 Competitive Programming
+🌱 Currently exploring
 
-- 🟠 **LeetCode:** 2118 Rating
-- 🔵 **CodeChef:** 1707 Rating (3★)
-- 🔴 **Codeforces:** 1427 Rating (Specialist)
-- 🟢 **AtCoder:** 816 Rating
+- System Design
+- Distributed Systems
+- Cloud Computing
+- Backend Engineering
 
-### Achievements
+🏆 Highlights
 
-- 🥇 Global Rank **293** — LeetCode Weekly Contest 503
-- 🥇 Global Rank **342** — CodeChef Starters 244
-- 🥇 Global Rank **818** — Codeforces Round 1105 (Div. 2)
-- 🏅 Global Rank **1103** — ICPC Prelims 2025
-- 🥇 Rank **1** in MANIT Coding Contest
-- 🎯 JEE Main 2024 — **99.13 Percentile**
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+- 🧩 Solved **1800+ DSA Problems**
+- 👑 **Guardian** on LeetCode
+- 💙 **Specialist** on Codeforces
+- ⭐ **3★** on CodeChef
+- 🏅 ICPC Prelims Global Rank **1103**
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Sahilpal45">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://www.linkedin.com/in/sahil-pal-285720324/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+<a href="https://leetcode.com/u/Sahilpal45_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+<a href="https://codeforces.com/profile/Sahilpal45">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
-<a href="https://atcoder.jp/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/AtCoder-black?style=for-the-badge"/>
+<a href="https://www.codechef.com/users/sahilpal45">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
+
+<a href="https://atcoder.jp/users/Sahilpal45">
+<img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,sql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+| Platform | Rating |
+|----------|--------|
+| 🟠 LeetCode | **2128 (Guardian)** |
+| 🔵 Codeforces | **1523 (Specialist)** |
+| 🟤 CodeChef | **1708 (3★)** |
+| ⚫ AtCoder | **1007 (5 Kyu)** |
+
+---
+
+# 🏅 Achievements
+
+🏆 Global Rank **293** — LeetCode Weekly Contest 503
+
+🏆 Global Rank **342** — CodeChef Starters 244
+
+🏆 Global Rank **818** — Codeforces Round 1105 (Div.2)
+
+🏆 Global Rank **1103** — ICPC Prelims 2025
+
+🥇 Rank **1** — MANIT Coding Contest
+
+🎯 Solved **1800+ DSA Problems**
+
+🎯 **99.13 Percentile** in JEE Main 2024
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 LearnAI – AI Powered Learning Platform
+
+> React • Node.js • Express • MongoDB • JWT • PDF Parsing • DeepSeek API
+
+✨ Features
+
+- Upload PDFs
+- AI-powered Question Answering
+- Quiz Generation
+- Smart Summaries
+- JWT Authentication
+
+🔗 Repository:
+https://github.com/Sahilpal45
+
+---
+
+## 🎯 AI Interview Preparation Planner
+
+> React • Node.js • Express • MongoDB • Gemini API
+
+✨ Features
+
+- Upload Job Description
+- Generate Interview Questions
+- Personalized Preparation Roadmap
+- Authentication
+- Responsive UI
+
+🔗 Repository:
+https://github.com/Sahilpal45
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahilpal45&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpal45&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-> *"Code. Learn. Build. Repeat."* 🚀
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sahilpal45&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilpal45&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sahilpal45&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **spal67277@gmail.com**
+
+💼 **Open to Software Engineering Internship Opportunities**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sahilpal45&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+⭐ Thanks for visiting my profile!
+
+</p>
