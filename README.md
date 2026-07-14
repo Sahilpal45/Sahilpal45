@@ -74,7 +74,7 @@ Competitive Programmer • Backend Developer • Full Stack Developer • AI Ent
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,vite"/>
 </p>
 
 ### Backend
@@ -118,11 +118,9 @@ Competitive Programmer • Backend Developer • Full Stack Developer • AI Ent
 
 🏆 Global Rank **1103** — ICPC Prelims 2025
 
-🥇 Rank **1** — MANIT Coding Contest
+🥇 Rank **1** — MANIT Coding Contest organized by Zenith
 
 🎯 Solved **1800+ DSA Problems**
-
-🎯 **99.13 Percentile** in JEE Main 2024
 
 ---
 
@@ -203,6 +201,11 @@ https://github.com/Sahilpal45
 </p>
 
 ---
+# 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sahilpal45_?theme=dark&font=Baloo&ext=contest" />
+</p>
 
 ## 📫 Contact
 
