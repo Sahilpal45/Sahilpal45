@@ -139,7 +139,7 @@ Competitive Programmer • Backend Developer • Full Stack Developer • AI Ent
 - JWT Authentication
 
 🔗 Repository:
-https://github.com/Sahilpal45
+[https://github.com/Sahilpal45](https://github.com/Sahilpal45/AI-Learning-Platform)
 
 ---
 
